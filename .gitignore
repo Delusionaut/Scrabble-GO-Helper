@@ -1,0 +1,15 @@
+# PyInstaller build output
+/run/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# App artifacts
+crash.log
+debug_overlay.png
+*.spec
+build/
+dist/
